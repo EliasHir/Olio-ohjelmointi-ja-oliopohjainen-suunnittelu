@@ -1,2 +1,2 @@
-oliotesti/build/
-oliotesti/*.user
+*/build/
+*/*.user
